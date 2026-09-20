@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The demonstration video of **PushPoint** is now available on **Bilibili**. :sparkles:
+The demonstration video of <span style="color: var(--global-theme-color); font-weight: 700;">PushPoint</span> is now available on **Bilibili**. :sparkles:
