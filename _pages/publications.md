@@ -6,7 +6,9 @@ description: publications by categories in reversed chronological order. generat
 nav: true
 nav_order: 2
 ---
-<p><sup>*</sup> Equal contribution.</p>
+
+\* Equal contribution.
+
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->
