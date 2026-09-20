@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper <span style="color: var(--global-theme-color); font-weight: 700;">GAPG</span> has been accepted to **IEEE ICRA 2026**.:sparkles:
+Our paper <span style="color: var(--global-theme-color);">GAPG</span> has been accepted to IEEE ICRA 2026.:sparkles:
