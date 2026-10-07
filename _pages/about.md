@@ -25,6 +25,6 @@ latest_posts:
 
 I’m a third-year master’s student at the School of Automation Science and Engineering at [South China University of Technology](https://www.scut.edu.cn/en/), supervised by [Prof. Yang Cong](https://scholar.google.com/citations?user=iUUu8PkAAAAJ&hl=en). Before that, I received my B.E. degree from [Northeastern University](https://english.neu.edu.cn/), where I studied in the School of Mechanical Engineering and Automation. My research interests mainly focus on robotic manipulation in dense and cluttered environments, especially grasping and non-prehensile manipulation for object rearrangement. Beyond that, I am also broadly interested in 3D perception and object pose estimation. 
 
-If you are interested in my research, please feel free to contact me via [email](mailto:xl24232221@gmail.com)
+If you are interested in my research, please feel free to contact me via [e-mail](mailto:xl24232221@gmail.com)
 
 
